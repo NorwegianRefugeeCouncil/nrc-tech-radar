@@ -3,29 +3,78 @@
   "entries": [
     {
       "quadrant": 0,
+      "ring": 0,
+      "label": "MS Planner",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Atlassian Jira",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
       "ring": 2,
-      "label": "AWS Athena",
+      "label": "Github Projects",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
-      "ring": 3,
-      "label": "AWS Data Pipeline",
+      "ring": 0,
+      "label": "Miro",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Lucid",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Figma",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "AWS EMR",
+      "label": "FreshService",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "FreshDesk",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
-      "ring": 2,
-      "label": "AWS Glue",
+      "ring": 0,
+      "label": "MS Teams",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Slack",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Zoom",
       "active": true,
       "moved": 0
     }
