@@ -1,13 +1,15 @@
-# Motivation
+# Background
 
-At [Zalando](http://zalando.de), we maintain a [public Tech
-Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
-align on technology choices. It is based on the [pioneering work
+As NRC, we aim to understand the technology tools utilized across the organization. We're
+actively documenting and assessing tools in use, exploring preferences based on team experience
+over time.
+
+This is a fork from [Zalando's Tech Radar](http://zalando.github.io/tech-radar/) 
+to help our teams align on technology tool choices. This is all based on the [pioneering work
 by ThoughtWorks](https://www.thoughtworks.com/radar).
 
 This repository contains the code to generate the visualization:
 [`radar.js`](/docs/radar.js) (based on [d3.js v4](https://d3js.org)).
-Feel free to use and adapt it for your own purposes.
 
 ## Usage
 
@@ -67,9 +69,6 @@ radar_visualization({
 
 Entries are positioned automatically so that they don't overlap.
 
-As a working example, you can check out `docs/index.html` &mdash; the source of our [public Tech
-Radar](http://zalando.github.io/tech-radar/).
-
 ## Deployment
 
 Tech Radar is a static page, so it can be deployed using any hosting provider of your choice offering static page hosting.
@@ -98,8 +97,6 @@ http://localhost:3000/
 
 ```
 The MIT License (MIT)
-
-Copyright (c) 2017-2022 Zalando SE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
